@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdpdate",
+        "uuid": 3660864,
+        "checksum": "oy2p9s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
